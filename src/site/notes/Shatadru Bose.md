@@ -12,3 +12,8 @@ Friends:-
 Games:-
 1. [[Sambit Ghosh/Games/Minecraft/Servers By Sambit Ghosh\|Servers By Sambit Ghosh]].
 2. [[Mayukh Dasgupta/Games/Roblox/Accounts Of Mayukh Dasgupta\|Accounts Of Mayukh Dasgupta]].
+
+---
+Navigation:-
+
+[[Friendship Policy\|Privacy Policy]].
