@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/friendship-policy/","tags":["privacy"]}
 ---
 
-Privacy Policy: Our Circle of Love and Joy ❤️
+Privacy Policy: Our Circle of Love and Joy ❤️❤️❤️
 
 This privacy policy is dedicated to the beautiful connections I share with my friends. It reflects the love, laughter, and unforgettable memories we create together.
 
@@ -62,11 +62,23 @@ The unspoken bond that grows stronger with every shared experience.
 
 ---
 
+6. The Eternal Bond of Marriage
+
+Our love and friendship are so profound that we’ve committed to each other in a symbolic and heartfelt marriage. This union signifies:
+
+A promise to always stand by each other through life’s journey.
+
+A lifelong partnership grounded in trust, laughter, and shared dreams.
+
+An eternal bond that strengthens with every shared experience.
+
+---
+
 This policy is a tribute to the amazing people in my life and the joy we bring to each other. May this love continue to grow and inspire others to cherish their own friendships. ❤️
 
 ---
 
-5. Friends' Data
+7. Friends' Data
 
 As part of this beautiful connection, I may interact with or store data related to my friends for personal purposes (e.g., organizing events, sharing memories, or using tools like Google Analytics to enhance digital experiences).
 
@@ -85,7 +97,7 @@ Data Security: I take care to ensure any stored data remains private and secure.
 
 ---
 
-6. Data Collection and Usage
+8. Data Collection and Usage
 
 To improve the experience of this website, certain data may be collected through tools like Google Analytics. Here’s how:
 
@@ -111,7 +123,7 @@ Cookies are small files stored on your device that help analyze how users intera
 
 ---
 
-7. Transparency and Consent
+9. Transparency and Consent
 
 My friends are always informed about how their data is used, and they have the right to:
 
@@ -121,7 +133,7 @@ Opt-out of any data collection.
 
 ---
 
-8. User Rights and Choices
+10. User Rights and Choices
 
 Control Over Data:
 
@@ -136,13 +148,13 @@ Information about how data is collected and used is always accessible.
 
 ---
 
-9. Security and Integrity
+11. Security and Integrity
 
 I prioritize the security of all collected data. Reasonable measures are in place to protect against unauthorized access, alteration, or misuse.
 
 ---
 
-10. Google Analytics Disclaimer
+12. Google Analytics Disclaimer
 
 This site uses Google Analytics to understand user engagement and improve content. Please note:
 
